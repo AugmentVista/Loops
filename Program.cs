@@ -19,9 +19,9 @@ namespace Loops
             bool gameOver = false;
             while (gameOver != true)
             {
-             //....
+                //....
 
-            // turn states
+                // turn states
             }
             ConsoleKeyInfo input;
             input = Console.ReadKey();
@@ -37,5 +37,19 @@ namespace Loops
 
             //KNOWLEDGE
         }
+
+        // for each column 
+        // for (int x = 0; x < 5; x++;)
+
+        // for (int y = 0; y < 5; y++;)
+
+
+
+        // usage: map[y, x]
+
+
+
+
+
     }
 }
